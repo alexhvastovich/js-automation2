@@ -8,7 +8,7 @@ cache:
 
 
 before_script:
-  - yarn isntall
+  - yarn install
 
 script:
   - yarn test
