@@ -1,0 +1,18 @@
+{
+  "name": "js-automation2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "cypress": "^3.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run",
+    "test:e2e": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
